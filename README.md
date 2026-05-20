@@ -1,4 +1,6 @@
-# ram-tester
+# ram-tester 
+
+Ram hardware info
 
 ## Code compiler
 
